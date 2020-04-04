@@ -2,7 +2,9 @@
 
 ### Installation
 
-To install requirements run
+Pull or download the repo.
+
+To install requirements run:
 
 ````
 pip install -r requirements.txt
